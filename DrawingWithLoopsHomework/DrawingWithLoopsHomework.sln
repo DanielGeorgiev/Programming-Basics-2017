@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareFrame", "DrawingWithLoopsHomework\SquareFrame.csproj", "{DE42EFD4-178D-4801-A7BD-7CE9AF8CA06E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhomb", "Rhomb\Rhomb.csproj", "{8C5A267D-8B8F-4EBE-856C-7F0D127E53C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasTree", "ChristmasTree\ChristmasTree.csproj", "{8B6C922D-5074-436D-8F7E-6E59CFBCDB50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunglasses", "Sunglasses\Sunglasses.csproj", "{2824E461-2C06-4C4B-AE96-A15BCFABB5E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "House", "House\House.csproj", "{7C8832AD-0755-4C81-B906-0B1E1FA8BF66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "Diamond\Diamond.csproj", "{0D042455-2699-463A-8F8A-E74A8FDB9259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamEx-DrawFort", "ExamExercises\ExamEx-DrawFort.csproj", "{2C7459F6-8CF8-4922-85E2-57586A5AB56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE42EFD4-178D-4801-A7BD-7CE9AF8CA06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE42EFD4-178D-4801-A7BD-7CE9AF8CA06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE42EFD4-178D-4801-A7BD-7CE9AF8CA06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE42EFD4-178D-4801-A7BD-7CE9AF8CA06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5A267D-8B8F-4EBE-856C-7F0D127E53C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5A267D-8B8F-4EBE-856C-7F0D127E53C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5A267D-8B8F-4EBE-856C-7F0D127E53C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5A267D-8B8F-4EBE-856C-7F0D127E53C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6C922D-5074-436D-8F7E-6E59CFBCDB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6C922D-5074-436D-8F7E-6E59CFBCDB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6C922D-5074-436D-8F7E-6E59CFBCDB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6C922D-5074-436D-8F7E-6E59CFBCDB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2824E461-2C06-4C4B-AE96-A15BCFABB5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2824E461-2C06-4C4B-AE96-A15BCFABB5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2824E461-2C06-4C4B-AE96-A15BCFABB5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2824E461-2C06-4C4B-AE96-A15BCFABB5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8832AD-0755-4C81-B906-0B1E1FA8BF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8832AD-0755-4C81-B906-0B1E1FA8BF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8832AD-0755-4C81-B906-0B1E1FA8BF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8832AD-0755-4C81-B906-0B1E1FA8BF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D042455-2699-463A-8F8A-E74A8FDB9259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D042455-2699-463A-8F8A-E74A8FDB9259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D042455-2699-463A-8F8A-E74A8FDB9259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D042455-2699-463A-8F8A-E74A8FDB9259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7459F6-8CF8-4922-85E2-57586A5AB56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7459F6-8CF8-4922-85E2-57586A5AB56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7459F6-8CF8-4922-85E2-57586A5AB56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7459F6-8CF8-4922-85E2-57586A5AB56C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
