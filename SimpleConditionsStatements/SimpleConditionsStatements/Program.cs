@@ -1,0 +1,18 @@
+﻿using System;
+class Program
+{
+    static void Main()
+    {
+        double grade = double.Parse(Console.ReadLine());
+
+        if (grade >= 5.50)
+        {
+            Console.WriteLine("Excellent!");
+        }
+        else if (grade<5.50)
+        {
+            Console.WriteLine("Not Excellent!");
+        }
+    }
+}
+
